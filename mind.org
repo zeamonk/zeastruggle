@@ -1,4 +1,4 @@
-#+OPTIONS: toc:t ^nil author:zeamonk num:8
+#+OPTIONS: toc:t ^nil author:zeamonk num:2
 * 习思想
 * 马克思主义哲学
 + 组成
